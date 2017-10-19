@@ -1,3 +1,3 @@
 # GerenciaInformatica
-#Camilo Jose Bonilla Hernandez.
-#David Leonardo Cardenas Rengifo
+Camilo Jose Bonilla Hernandez.
+David Leonardo Cardenas Rengifo
